@@ -1,9 +1,9 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">の〜と</router-link> |
-      <router-link to="/signin">ろぐいん</router-link> |
-      <router-link to="/about">あばうと</router-link>
+      <router-link to="/">の〜と(Private Note)</router-link> |
+      <router-link to="/signin">ろぐいん(Signin)</router-link> |
+      <router-link to="/about">あばうと(About)</router-link>
     </div>
     <router-view/>
   </div>
